@@ -2,7 +2,7 @@
 
 ## Description
 
-## Table of contents
+## License
 
 ## Built with
 
